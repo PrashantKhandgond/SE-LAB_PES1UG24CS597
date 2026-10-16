@@ -1,0 +1,6 @@
+Pylint BEFORE report
+--------------------
+The original raw Pylint report was not present in the files available to this chat, so its exact messages and score cannot be reproduced here without rerunning Pylint against gym_membership_system_original.py.
+
+To generate the authentic report in your Lab5 folder, run:
+python -m pylint gym_membership_system_original.py > pylint_report_before.txt

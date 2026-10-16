@@ -1,0 +1,6 @@
+Bandit BEFORE report
+--------------------
+The original raw Bandit report was not present in the files available to this chat, so its exact findings cannot be reproduced here without rerunning Bandit against gym_membership_system_original.py.
+
+To generate the authentic report in your Lab5 folder, run:
+python -m bandit -r gym_membership_system_original.py -f txt -o bandit_report_before.txt
